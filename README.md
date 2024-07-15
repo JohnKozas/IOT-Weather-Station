@@ -10,4 +10,4 @@ The Raspberry Pi uses two sensors:
 - **DFRobot BME280**: Measures temperature, atmospheric pressure, humidity, and altitude.
 - **BH1750**: Measures light intensity.
 
-  There is a PDF with a detailed step-by-step description of the implementation.
+There is a PDF with a detailed step-by-step description of the implementation.
